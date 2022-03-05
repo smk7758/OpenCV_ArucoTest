@@ -1,4 +1,4 @@
-This is just an test of ArUco in OpenCV. In this program a programming language is Java only ^^;
+This is just a test of ArUco in OpenCV. In this program a programming language is Java only ^^;
 
 
 
